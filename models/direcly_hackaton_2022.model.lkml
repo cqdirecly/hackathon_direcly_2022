@@ -3,6 +3,7 @@ connection: "lookerdata"
 
 # include all the views
 include: "/views/**/*.view"
+include: "/Dashboards/**/*.dashboard"
 
 
 # Datagroups define a caching policy for an Explore. To learn more,
