@@ -215,7 +215,7 @@ view: pruebas_saber_11 {
     sql: ${TABLE}.ESTU_DEPTO_PRESENTACION ;;
     link: {
       label: "Details educational Institutions"
-      url: "https://direcly.cloud.looker.com/dashboards/198?State={{ value | url_encode }}"
+      url: "https://hack.looker.com/dashboards/67?State={{ value | url_encode }}"
     }
   }
 
